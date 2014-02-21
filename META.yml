@@ -29,7 +29,7 @@ no_index:
 provides:
   WWW::Form::UrlEncoded::XS:
     file: lib/WWW/Form/UrlEncoded/XS.pm
-    version: 0.13
+    version: 0.14
 requires:
   Exporter: 0
   perl: 5.008004
@@ -37,4 +37,4 @@ resources:
   bugtracker: https://github.com/kazeburo/WWW-Form-UrlEncoded-XS/issues
   homepage: https://github.com/kazeburo/WWW-Form-UrlEncoded-XS
   repository: git://github.com/kazeburo/WWW-Form-UrlEncoded-XS.git
-version: 0.13
+version: 0.14
