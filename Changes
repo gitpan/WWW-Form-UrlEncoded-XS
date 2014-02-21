@@ -1,5 +1,9 @@
 Revision history for Perl extension WWW-Form-UrlEncoded-XS
 
+0.15 2014-02-21T08:39:34Z
+
+    - optimze around memory alloc
+
 0.14 2014-02-21T04:11:13Z
 
     - add build_urlencoded_utf8
