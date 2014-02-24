@@ -1,11 +1,11 @@
 package WWW::Form::UrlEncoded::XS;
 
-use 5.008004;
+use 5.008001;
 use strict;
 use warnings;
 use base qw/Exporter/;
 
-our $VERSION = "0.16";
+our $VERSION = "0.17";
 our @EXPORT_OK = qw/parse_urlencoded parse_urlencoded_arrayref build_urlencoded build_urlencoded_utf8/;
 
 use XSLoader;

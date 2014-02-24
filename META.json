@@ -44,7 +44,7 @@
       "runtime" : {
          "requires" : {
             "Exporter" : "0",
-            "perl" : "5.008004"
+            "perl" : "5.008001"
          }
       },
       "test" : {
@@ -57,7 +57,7 @@
    "provides" : {
       "WWW::Form::UrlEncoded::XS" : {
          "file" : "lib/WWW/Form/UrlEncoded/XS.pm",
-         "version" : "0.16"
+         "version" : "0.17"
       }
    },
    "release_status" : "stable",
@@ -71,5 +71,5 @@
          "web" : "https://github.com/kazeburo/WWW-Form-UrlEncoded-XS"
       }
    },
-   "version" : "0.16"
+   "version" : "0.17"
 }
