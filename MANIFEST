@@ -11,5 +11,6 @@ minil.toml
 t/00_compile.t
 t/01_parse.t
 t/02_build.t
+t/03_parse_arrayref.t
 META.yml
 MANIFEST
